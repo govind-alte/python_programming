@@ -1,0 +1,1783 @@
+--------------------------------------------------
+--marvellous platform survillence system--- 
+log file get creates ar:2026-07-26_20-37-02
+--------------------------------------------------
+
+------------system Report--------------
+CPU informationCPU number of core :12 
+cpu usage :6.7 %
+--------------------------------------------------
+Memory informationRAM usage :81.9 %
+total RAM avalible  :7883554816
+--------------------------------------------------
+Network Report
+sent: 8.89 MB
+Recive: 25.56 MB
+--------------------------------------------------
+PID : 0
+Name : System Idle Process
+UserNmae : NT AUTHORITY\SYSTEM
+Status : running
+CPU usage : 0.00
+RAM usage : 0.00
+--------------------------------------------------
+PID : 4
+Name : System
+UserNmae : NT AUTHORITY\SYSTEM
+Status : running
+CPU usage : 0.00
+RAM usage : 0.05
+--------------------------------------------------
+PID : 188
+Name : 
+UserNmae : None
+Status : stopped
+CPU usage : 0.00
+RAM usage : 0.58
+--------------------------------------------------
+PID : 232
+Name : Registry
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.52
+--------------------------------------------------
+PID : 816
+Name : smss.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.01
+--------------------------------------------------
+PID : 1008
+Name : Code.exe
+UserNmae : GOVIND\guddu
+Status : running
+CPU usage : 0.00
+RAM usage : 0.68
+--------------------------------------------------
+PID : 1284
+Name : csrss.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.05
+--------------------------------------------------
+PID : 1304
+Name : RtkAudUService64.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.22
+--------------------------------------------------
+PID : 1524
+Name : wininit.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.07
+--------------------------------------------------
+PID : 1668
+Name : services.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.11
+--------------------------------------------------
+PID : 1676
+Name : LsaIso.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.02
+--------------------------------------------------
+PID : 1684
+Name : svchost.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.37
+--------------------------------------------------
+PID : 1696
+Name : lsass.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.37
+--------------------------------------------------
+PID : 1764
+Name : UserOOBEBroker.exe
+UserNmae : GOVIND\guddu
+Status : running
+CPU usage : 0.00
+RAM usage : 0.14
+--------------------------------------------------
+PID : 1828
+Name : svchost.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.50
+--------------------------------------------------
+PID : 1856
+Name : fontdrvhost.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.01
+--------------------------------------------------
+PID : 1952
+Name : svchost.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.24
+--------------------------------------------------
+PID : 2012
+Name : svchost.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.09
+--------------------------------------------------
+PID : 2056
+Name : svchost.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.12
+--------------------------------------------------
+PID : 2060
+Name : svchost.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.06
+--------------------------------------------------
+PID : 2068
+Name : svchost.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.02
+--------------------------------------------------
+PID : 2116
+Name : svchost.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.13
+--------------------------------------------------
+PID : 2200
+Name : svchost.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.13
+--------------------------------------------------
+PID : 2220
+Name : svchost.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.07
+--------------------------------------------------
+PID : 2228
+Name : svchost.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.04
+--------------------------------------------------
+PID : 2272
+Name : OpenConsole.exe
+UserNmae : GOVIND\guddu
+Status : running
+CPU usage : 0.00
+RAM usage : 0.14
+--------------------------------------------------
+PID : 2284
+Name : svchost.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.09
+--------------------------------------------------
+PID : 2292
+Name : svchost.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.11
+--------------------------------------------------
+PID : 2300
+Name : svchost.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.09
+--------------------------------------------------
+PID : 2416
+Name : svchost.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.09
+--------------------------------------------------
+PID : 2492
+Name : svchost.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.08
+--------------------------------------------------
+PID : 2512
+Name : svchost.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.22
+--------------------------------------------------
+PID : 2536
+Name : svchost.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.16
+--------------------------------------------------
+PID : 2604
+Name : OmenCap.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.09
+--------------------------------------------------
+PID : 2608
+Name : svchost.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.07
+--------------------------------------------------
+PID : 2644
+Name : Code.exe
+UserNmae : GOVIND\guddu
+Status : running
+CPU usage : 0.00
+RAM usage : 1.56
+--------------------------------------------------
+PID : 2696
+Name : svchost.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.12
+--------------------------------------------------
+PID : 2820
+Name : svchost.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.28
+--------------------------------------------------
+PID : 2848
+Name : svchost.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.05
+--------------------------------------------------
+PID : 2864
+Name : powershell.exe
+UserNmae : GOVIND\guddu
+Status : running
+CPU usage : 0.00
+RAM usage : 0.71
+--------------------------------------------------
+PID : 3040
+Name : svchost.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.08
+--------------------------------------------------
+PID : 3120
+Name : FileSyncHelper.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.25
+--------------------------------------------------
+PID : 3152
+Name : svchost.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.11
+--------------------------------------------------
+PID : 3176
+Name : amdfendrsr.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.04
+--------------------------------------------------
+PID : 3184
+Name : atiesrxx.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.04
+--------------------------------------------------
+PID : 3192
+Name : svchost.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.21
+--------------------------------------------------
+PID : 3208
+Name : mc-fw-host.exe
+UserNmae : GOVIND\guddu
+Status : running
+CPU usage : 0.00
+RAM usage : 0.32
+--------------------------------------------------
+PID : 3300
+Name : svchost.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.18
+--------------------------------------------------
+PID : 3448
+Name : spoolsv.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.13
+--------------------------------------------------
+PID : 3504
+Name : svchost.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.13
+--------------------------------------------------
+PID : 3508
+Name : svchost.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.03
+--------------------------------------------------
+PID : 3520
+Name : svchost.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.08
+--------------------------------------------------
+PID : 3548
+Name : msedgewebview2.exe
+UserNmae : GOVIND\guddu
+Status : running
+CPU usage : 0.00
+RAM usage : 0.10
+--------------------------------------------------
+PID : 3584
+Name : SearchProtocolHost.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.19
+--------------------------------------------------
+PID : 3620
+Name : MemCompression
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 1.11
+--------------------------------------------------
+PID : 3656
+Name : WindowsTerminal.exe
+UserNmae : GOVIND\guddu
+Status : running
+CPU usage : 0.00
+RAM usage : 1.18
+--------------------------------------------------
+PID : 3672
+Name : svchost.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.10
+--------------------------------------------------
+PID : 3732
+Name : svchost.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.06
+--------------------------------------------------
+PID : 3740
+Name : svchost.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.06
+--------------------------------------------------
+PID : 3748
+Name : TouchpointAnalyticsClientService.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.69
+--------------------------------------------------
+PID : 3756
+Name : SysInfoCap.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.37
+--------------------------------------------------
+PID : 3760
+Name : NetworkCap.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.14
+--------------------------------------------------
+PID : 3772
+Name : AppHelperCap.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.29
+--------------------------------------------------
+PID : 3780
+Name : DiagsCap.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.08
+--------------------------------------------------
+PID : 3820
+Name : TextInputHost.exe
+UserNmae : GOVIND\guddu
+Status : running
+CPU usage : 0.00
+RAM usage : 1.01
+--------------------------------------------------
+PID : 3864
+Name : ExpressVPNNotificationService.exe
+UserNmae : GOVIND\guddu
+Status : running
+CPU usage : 0.00
+RAM usage : 0.65
+--------------------------------------------------
+PID : 4024
+Name : svchost.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.28
+--------------------------------------------------
+PID : 4036
+Name : svchost.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.17
+--------------------------------------------------
+PID : 4112
+Name : powershell.exe
+UserNmae : GOVIND\guddu
+Status : running
+CPU usage : 0.00
+RAM usage : 0.76
+--------------------------------------------------
+PID : 4136
+Name : hp-one-agent-service.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.36
+--------------------------------------------------
+PID : 4196
+Name : svchost.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.33
+--------------------------------------------------
+PID : 4320
+Name : svchost.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.24
+--------------------------------------------------
+PID : 4388
+Name : svchost.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.27
+--------------------------------------------------
+PID : 4428
+Name : svchost.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.03
+--------------------------------------------------
+PID : 4572
+Name : svchost.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.05
+--------------------------------------------------
+PID : 4576
+Name : svchost.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.06
+--------------------------------------------------
+PID : 4660
+Name : WmiPrvSE.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.55
+--------------------------------------------------
+PID : 4696
+Name : svchost.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.13
+--------------------------------------------------
+PID : 4708
+Name : SystemSettings.exe
+UserNmae : GOVIND\guddu
+Status : stopped
+CPU usage : 0.00
+RAM usage : 0.04
+--------------------------------------------------
+PID : 4792
+Name : unsecapp.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.06
+--------------------------------------------------
+PID : 4900
+Name : svchost.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.06
+--------------------------------------------------
+PID : 4908
+Name : msedgewebview2.exe
+UserNmae : GOVIND\guddu
+Status : running
+CPU usage : 0.00
+RAM usage : 0.55
+--------------------------------------------------
+PID : 4992
+Name : WmiPrvSE.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.28
+--------------------------------------------------
+PID : 5024
+Name : RuntimeBroker.exe
+UserNmae : GOVIND\guddu
+Status : running
+CPU usage : 0.00
+RAM usage : 0.79
+--------------------------------------------------
+PID : 5068
+Name : svchost.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.22
+--------------------------------------------------
+PID : 5100
+Name : svchost.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.14
+--------------------------------------------------
+PID : 5184
+Name : svchost.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.08
+--------------------------------------------------
+PID : 5196
+Name : svchost.exe
+UserNmae : GOVIND\guddu
+Status : running
+CPU usage : 0.00
+RAM usage : 0.52
+--------------------------------------------------
+PID : 5216
+Name : nssm.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.03
+--------------------------------------------------
+PID : 5224
+Name : HPCommRecovery.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.14
+--------------------------------------------------
+PID : 5232
+Name : ETDService.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.05
+--------------------------------------------------
+PID : 5240
+Name : HPPrintScanDoctorService.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.18
+--------------------------------------------------
+PID : 5248
+Name : svchost.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.47
+--------------------------------------------------
+PID : 5256
+Name : svchost.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.05
+--------------------------------------------------
+PID : 5264
+Name : mc-fw-host.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 1.79
+--------------------------------------------------
+PID : 5272
+Name : svchost.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.10
+--------------------------------------------------
+PID : 5284
+Name : winlogon.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.21
+--------------------------------------------------
+PID : 5288
+Name : svchost.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.55
+--------------------------------------------------
+PID : 5324
+Name : MpDefenderCoreService.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.23
+--------------------------------------------------
+PID : 5332
+Name : GameInputRedistService.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.05
+--------------------------------------------------
+PID : 5352
+Name : mongod.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.36
+--------------------------------------------------
+PID : 5360
+Name : mysqld.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.02
+--------------------------------------------------
+PID : 5368
+Name : SECOMN64.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.11
+--------------------------------------------------
+PID : 5380
+Name : RtkAudUService64.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.11
+--------------------------------------------------
+PID : 5400
+Name : sqlwriter.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.04
+--------------------------------------------------
+PID : 5408
+Name : msedgewebview2.exe
+UserNmae : GOVIND\guddu
+Status : running
+CPU usage : 0.00
+RAM usage : 0.17
+--------------------------------------------------
+PID : 5552
+Name : svchost.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.03
+--------------------------------------------------
+PID : 5600
+Name : svchost.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.06
+--------------------------------------------------
+PID : 5612
+Name : MsMpEng.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 2.85
+--------------------------------------------------
+PID : 5636
+Name : svchost.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.22
+--------------------------------------------------
+PID : 5752
+Name : Code.exe
+UserNmae : GOVIND\guddu
+Status : running
+CPU usage : 0.00
+RAM usage : 2.72
+--------------------------------------------------
+PID : 5948
+Name : svchost.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.07
+--------------------------------------------------
+PID : 5984
+Name : svchost.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.02
+--------------------------------------------------
+PID : 6088
+Name : expressvpnd.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.17
+--------------------------------------------------
+PID : 6212
+Name : svchost.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.48
+--------------------------------------------------
+PID : 6444
+Name : conhost.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.02
+--------------------------------------------------
+PID : 6480
+Name : mysqld.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.06
+--------------------------------------------------
+PID : 6496
+Name : svchost.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.12
+--------------------------------------------------
+PID : 6536
+Name : conhost.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.02
+--------------------------------------------------
+PID : 6652
+Name : svchost.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.08
+--------------------------------------------------
+PID : 6840
+Name : cncmd.exe
+UserNmae : GOVIND\guddu
+Status : running
+CPU usage : 0.00
+RAM usage : 0.11
+--------------------------------------------------
+PID : 6852
+Name : amdow.exe
+UserNmae : GOVIND\guddu
+Status : running
+CPU usage : 0.00
+RAM usage : 0.04
+--------------------------------------------------
+PID : 7308
+Name : CrossDeviceService.exe
+UserNmae : GOVIND\guddu
+Status : running
+CPU usage : 0.00
+RAM usage : 0.89
+--------------------------------------------------
+PID : 7464
+Name : conhost.exe
+UserNmae : GOVIND\guddu
+Status : running
+CPU usage : 0.00
+RAM usage : 0.09
+--------------------------------------------------
+PID : 7536
+Name : svchost.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.02
+--------------------------------------------------
+PID : 7592
+Name : conhost.exe
+UserNmae : GOVIND\guddu
+Status : running
+CPU usage : 0.00
+RAM usage : 0.09
+--------------------------------------------------
+PID : 7752
+Name : PhoneExperienceHost.exe
+UserNmae : GOVIND\guddu
+Status : running
+CPU usage : 0.00
+RAM usage : 0.57
+--------------------------------------------------
+PID : 8208
+Name : RuntimeBroker.exe
+UserNmae : GOVIND\guddu
+Status : running
+CPU usage : 0.00
+RAM usage : 0.26
+--------------------------------------------------
+PID : 8564
+Name : wlanext.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.03
+--------------------------------------------------
+PID : 8756
+Name : AggregatorHost.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.17
+--------------------------------------------------
+PID : 8904
+Name : svchost.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.31
+--------------------------------------------------
+PID : 8912
+Name : svchost.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.42
+--------------------------------------------------
+PID : 9012
+Name : RuntimeBroker.exe
+UserNmae : GOVIND\guddu
+Status : running
+CPU usage : 0.00
+RAM usage : 0.19
+--------------------------------------------------
+PID : 9144
+Name : svchost.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.03
+--------------------------------------------------
+PID : 9152
+Name : taskhostw.exe
+UserNmae : GOVIND\guddu
+Status : running
+CPU usage : 0.00
+RAM usage : 0.31
+--------------------------------------------------
+PID : 9172
+Name : svchost.exe
+UserNmae : GOVIND\guddu
+Status : running
+CPU usage : 0.00
+RAM usage : 0.19
+--------------------------------------------------
+PID : 9208
+Name : explorer.exe
+UserNmae : GOVIND\guddu
+Status : running
+CPU usage : 0.00
+RAM usage : 3.51
+--------------------------------------------------
+PID : 9224
+Name : GameInputRedistService.exe
+UserNmae : GOVIND\guddu
+Status : running
+CPU usage : 0.00
+RAM usage : 0.20
+--------------------------------------------------
+PID : 9256
+Name : TouchpointGpuInfo.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.28
+--------------------------------------------------
+PID : 9296
+Name : svchost.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.03
+--------------------------------------------------
+PID : 9392
+Name : AppActions.exe
+UserNmae : GOVIND\guddu
+Status : running
+CPU usage : 0.00
+RAM usage : 0.52
+--------------------------------------------------
+PID : 9776
+Name : NisSrv.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.12
+--------------------------------------------------
+PID : 9796
+Name : Code.exe
+UserNmae : GOVIND\guddu
+Status : running
+CPU usage : 0.00
+RAM usage : 1.05
+--------------------------------------------------
+PID : 9904
+Name : svchost.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.08
+--------------------------------------------------
+PID : 9952
+Name : SECOCL64.exe
+UserNmae : GOVIND\guddu
+Status : running
+CPU usage : 0.00
+RAM usage : 0.18
+--------------------------------------------------
+PID : 10144
+Name : dwm.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.96
+--------------------------------------------------
+PID : 10276
+Name : python.exe
+UserNmae : GOVIND\guddu
+Status : running
+CPU usage : 0.00
+RAM usage : 0.31
+--------------------------------------------------
+PID : 10440
+Name : RuntimeBroker.exe
+UserNmae : GOVIND\guddu
+Status : running
+CPU usage : 0.00
+RAM usage : 0.32
+--------------------------------------------------
+PID : 10468
+Name : OneDrive.exe
+UserNmae : GOVIND\guddu
+Status : running
+CPU usage : 0.00
+RAM usage : 1.26
+--------------------------------------------------
+PID : 10512
+Name : OpenConsole.exe
+UserNmae : GOVIND\guddu
+Status : running
+CPU usage : 0.00
+RAM usage : 0.14
+--------------------------------------------------
+PID : 10516
+Name : HPSystemEventUtilityHost.exe
+UserNmae : GOVIND\guddu
+Status : running
+CPU usage : 0.00
+RAM usage : 0.47
+--------------------------------------------------
+PID : 10604
+Name : LockApp.exe
+UserNmae : GOVIND\guddu
+Status : stopped
+CPU usage : 0.00
+RAM usage : 0.63
+--------------------------------------------------
+PID : 10656
+Name : mc-neo-host.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.33
+--------------------------------------------------
+PID : 10692
+Name : DesktopExtension.exe
+UserNmae : GOVIND\guddu
+Status : running
+CPU usage : 0.00
+RAM usage : 0.52
+--------------------------------------------------
+PID : 10760
+Name : svchost.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.24
+--------------------------------------------------
+PID : 10780
+Name : OneDrive.Sync.Service.exe
+UserNmae : GOVIND\guddu
+Status : running
+CPU usage : 0.00
+RAM usage : 0.55
+--------------------------------------------------
+PID : 10884
+Name : Code.exe
+UserNmae : GOVIND\guddu
+Status : running
+CPU usage : 0.00
+RAM usage : 2.21
+--------------------------------------------------
+PID : 11120
+Name : powershell.exe
+UserNmae : GOVIND\guddu
+Status : running
+CPU usage : 0.00
+RAM usage : 0.76
+--------------------------------------------------
+PID : 11496
+Name : powershell.exe
+UserNmae : GOVIND\guddu
+Status : running
+CPU usage : 0.00
+RAM usage : 0.76
+--------------------------------------------------
+PID : 11512
+Name : svchost.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.24
+--------------------------------------------------
+PID : 11568
+Name : ctfmon.exe
+UserNmae : GOVIND\guddu
+Status : running
+CPU usage : 0.00
+RAM usage : 0.43
+--------------------------------------------------
+PID : 11608
+Name : conhost.exe
+UserNmae : GOVIND\guddu
+Status : running
+CPU usage : 0.00
+RAM usage : 0.12
+--------------------------------------------------
+PID : 11660
+Name : svchost.exe
+UserNmae : GOVIND\guddu
+Status : running
+CPU usage : 0.00
+RAM usage : 0.23
+--------------------------------------------------
+PID : 11920
+Name : OpenConsole.exe
+UserNmae : GOVIND\guddu
+Status : running
+CPU usage : 0.00
+RAM usage : 0.14
+--------------------------------------------------
+PID : 11960
+Name : svchost.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.12
+--------------------------------------------------
+PID : 12072
+Name : BridgeCommunication.exe
+UserNmae : GOVIND\guddu
+Status : running
+CPU usage : 0.00
+RAM usage : 0.50
+--------------------------------------------------
+PID : 12176
+Name : svchost.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.06
+--------------------------------------------------
+PID : 12428
+Name : svchost.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.50
+--------------------------------------------------
+PID : 12540
+Name : BraveCrashHandler.exe
+UserNmae : GOVIND\guddu
+Status : running
+CPU usage : 0.00
+RAM usage : 0.03
+--------------------------------------------------
+PID : 12796
+Name : Code.exe
+UserNmae : GOVIND\guddu
+Status : running
+CPU usage : 0.00
+RAM usage : 0.82
+--------------------------------------------------
+PID : 12948
+Name : ETDCtrl.exe
+UserNmae : GOVIND\guddu
+Status : running
+CPU usage : 0.00
+RAM usage : 0.22
+--------------------------------------------------
+PID : 13100
+Name : RuntimeBroker.exe
+UserNmae : GOVIND\guddu
+Status : running
+CPU usage : 0.00
+RAM usage : 0.34
+--------------------------------------------------
+PID : 13188
+Name : fontdrvhost.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.10
+--------------------------------------------------
+PID : 13420
+Name : svchost.exe
+UserNmae : GOVIND\guddu
+Status : running
+CPU usage : 0.00
+RAM usage : 0.36
+--------------------------------------------------
+PID : 13732
+Name : HPMediaNetwork.exe
+UserNmae : GOVIND\guddu
+Status : running
+CPU usage : 0.00
+RAM usage : 0.63
+--------------------------------------------------
+PID : 13756
+Name : OmenCommandCenterBackground.exe
+UserNmae : GOVIND\guddu
+Status : running
+CPU usage : 0.00
+RAM usage : 1.86
+--------------------------------------------------
+PID : 13780
+Name : RadeonSoftware.exe
+UserNmae : GOVIND\guddu
+Status : running
+CPU usage : 0.00
+RAM usage : 0.33
+--------------------------------------------------
+PID : 14108
+Name : svchost.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.08
+--------------------------------------------------
+PID : 14260
+Name : ApplicationFrameHost.exe
+UserNmae : GOVIND\guddu
+Status : running
+CPU usage : 0.00
+RAM usage : 0.35
+--------------------------------------------------
+PID : 14488
+Name : ShellExperienceHost.exe
+UserNmae : GOVIND\guddu
+Status : stopped
+CPU usage : 0.00
+RAM usage : 0.50
+--------------------------------------------------
+PID : 14584
+Name : svchost.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.23
+--------------------------------------------------
+PID : 14604
+Name : msedgewebview2.exe
+UserNmae : GOVIND\guddu
+Status : running
+CPU usage : 0.00
+RAM usage : 1.01
+--------------------------------------------------
+PID : 14648
+Name : msedgewebview2.exe
+UserNmae : GOVIND\guddu
+Status : running
+CPU usage : 0.00
+RAM usage : 0.95
+--------------------------------------------------
+PID : 14800
+Name : Widgets.exe
+UserNmae : GOVIND\guddu
+Status : running
+CPU usage : 0.00
+RAM usage : 0.88
+--------------------------------------------------
+PID : 15056
+Name : unsecapp.exe
+UserNmae : GOVIND\guddu
+Status : running
+CPU usage : 0.00
+RAM usage : 0.14
+--------------------------------------------------
+PID : 15412
+Name : StartMenuExperienceHost.exe
+UserNmae : GOVIND\guddu
+Status : running
+CPU usage : 0.00
+RAM usage : 1.39
+--------------------------------------------------
+PID : 15476
+Name : svchost.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.13
+--------------------------------------------------
+PID : 15668
+Name : msedgewebview2.exe
+UserNmae : GOVIND\guddu
+Status : running
+CPU usage : 0.00
+RAM usage : 0.17
+--------------------------------------------------
+PID : 15828
+Name : svchost.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.11
+--------------------------------------------------
+PID : 16000
+Name : CrossDeviceResume.exe
+UserNmae : GOVIND\guddu
+Status : running
+CPU usage : 0.00
+RAM usage : 0.47
+--------------------------------------------------
+PID : 16240
+Name : msedgewebview2.exe
+UserNmae : GOVIND\guddu
+Status : running
+CPU usage : 0.00
+RAM usage : 0.14
+--------------------------------------------------
+PID : 16288
+Name : SecurityHealthService.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.22
+--------------------------------------------------
+PID : 16624
+Name : BraveCrashHandler64.exe
+UserNmae : GOVIND\guddu
+Status : running
+CPU usage : 0.00
+RAM usage : 0.03
+--------------------------------------------------
+PID : 16728
+Name : svchost.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.07
+--------------------------------------------------
+PID : 16940
+Name : svchost.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.10
+--------------------------------------------------
+PID : 16956
+Name : pet.exe
+UserNmae : GOVIND\guddu
+Status : running
+CPU usage : 0.00
+RAM usage : 0.10
+--------------------------------------------------
+PID : 17176
+Name : msedgewebview2.exe
+UserNmae : GOVIND\guddu
+Status : running
+CPU usage : 0.00
+RAM usage : 0.00
+--------------------------------------------------
+PID : 17192
+Name : svchost.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.20
+--------------------------------------------------
+PID : 17216
+Name : SearchIndexer.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.35
+--------------------------------------------------
+PID : 17488
+Name : HPSystemEventUtilityBackground.exe
+UserNmae : GOVIND\guddu
+Status : running
+CPU usage : 0.00
+RAM usage : 0.79
+--------------------------------------------------
+PID : 17604
+Name : svchost.exe
+UserNmae : GOVIND\guddu
+Status : running
+CPU usage : 0.00
+RAM usage : 0.14
+--------------------------------------------------
+PID : 17824
+Name : SystemOptimizer.exe
+UserNmae : GOVIND\guddu
+Status : running
+CPU usage : 0.00
+RAM usage : 0.15
+--------------------------------------------------
+PID : 17840
+Name : Code.exe
+UserNmae : GOVIND\guddu
+Status : running
+CPU usage : 0.00
+RAM usage : 0.43
+--------------------------------------------------
+PID : 18012
+Name : svchost.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.43
+--------------------------------------------------
+PID : 18224
+Name : OpenConsole.exe
+UserNmae : GOVIND\guddu
+Status : running
+CPU usage : 0.00
+RAM usage : 0.14
+--------------------------------------------------
+PID : 18288
+Name : svchost.exe
+UserNmae : GOVIND\guddu
+Status : running
+CPU usage : 0.00
+RAM usage : 0.45
+--------------------------------------------------
+PID : 18296
+Name : Code.exe
+UserNmae : GOVIND\guddu
+Status : running
+CPU usage : 0.00
+RAM usage : 1.13
+--------------------------------------------------
+PID : 18980
+Name : jusched.exe
+UserNmae : GOVIND\guddu
+Status : running
+CPU usage : 0.00
+RAM usage : 0.22
+--------------------------------------------------
+PID : 19036
+Name : powershell.exe
+UserNmae : GOVIND\guddu
+Status : running
+CPU usage : 0.00
+RAM usage : 0.75
+--------------------------------------------------
+PID : 19048
+Name : powershell.exe
+UserNmae : GOVIND\guddu
+Status : running
+CPU usage : 0.00
+RAM usage : 0.89
+--------------------------------------------------
+PID : 19052
+Name : OpenConsole.exe
+UserNmae : GOVIND\guddu
+Status : running
+CPU usage : 0.00
+RAM usage : 0.14
+--------------------------------------------------
+PID : 19248
+Name : SecurityHealthSystray.exe
+UserNmae : GOVIND\guddu
+Status : running
+CPU usage : 0.00
+RAM usage : 0.17
+--------------------------------------------------
+PID : 19300
+Name : csrss.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.11
+--------------------------------------------------
+PID : 19788
+Name : msedgewebview2.exe
+UserNmae : GOVIND\guddu
+Status : running
+CPU usage : 0.00
+RAM usage : 0.18
+--------------------------------------------------
+PID : 20288
+Name : svchost.exe
+UserNmae : GOVIND\guddu
+Status : running
+CPU usage : 0.00
+RAM usage : 0.35
+--------------------------------------------------
+PID : 20428
+Name : FileCoAuth.exe
+UserNmae : GOVIND\guddu
+Status : running
+CPU usage : 0.00
+RAM usage : 0.51
+--------------------------------------------------
+PID : 20448
+Name : ONENOTEM.EXE
+UserNmae : GOVIND\guddu
+Status : running
+CPU usage : 0.00
+RAM usage : 0.11
+--------------------------------------------------
+PID : 20776
+Name : uihost.exe
+UserNmae : GOVIND\guddu
+Status : running
+CPU usage : 0.00
+RAM usage : 0.38
+--------------------------------------------------
+PID : 20956
+Name : dasHost.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.15
+--------------------------------------------------
+PID : 21044
+Name : dasHost.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.08
+--------------------------------------------------
+PID : 21092
+Name : ShellHost.exe
+UserNmae : GOVIND\guddu
+Status : running
+CPU usage : 0.00
+RAM usage : 0.67
+--------------------------------------------------
+PID : 21320
+Name : OpenConsole.exe
+UserNmae : GOVIND\guddu
+Status : running
+CPU usage : 0.00
+RAM usage : 0.27
+--------------------------------------------------
+PID : 21328
+Name : cmd.exe
+UserNmae : GOVIND\guddu
+Status : running
+CPU usage : 0.00
+RAM usage : 0.27
+--------------------------------------------------
+PID : 21476
+Name : OfficeClickToRun.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.41
+--------------------------------------------------
+PID : 21484
+Name : atieclxx.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.28
+--------------------------------------------------
+PID : 21736
+Name : svchost.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.03
+--------------------------------------------------
+PID : 21944
+Name : sihost.exe
+UserNmae : GOVIND\guddu
+Status : running
+CPU usage : 0.00
+RAM usage : 0.66
+--------------------------------------------------
+PID : 22220
+Name : svchost.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.07
+--------------------------------------------------
+PID : 22268
+Name : Code.exe
+UserNmae : GOVIND\guddu
+Status : running
+CPU usage : 0.00
+RAM usage : 5.32
+--------------------------------------------------
+PID : 22304
+Name : WmiApSrv.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.18
+--------------------------------------------------
+PID : 22400
+Name : RtkAudUService64.exe
+UserNmae : GOVIND\guddu
+Status : running
+CPU usage : 0.00
+RAM usage : 0.24
+--------------------------------------------------
+PID : 22736
+Name : AMDRSServ.exe
+UserNmae : GOVIND\guddu
+Status : running
+CPU usage : 0.00
+RAM usage : 2.11
+--------------------------------------------------
+PID : 22864
+Name : StoreDesktopExtension.exe
+UserNmae : GOVIND\guddu
+Status : running
+CPU usage : 0.00
+RAM usage : 0.39
+--------------------------------------------------
+PID : 23072
+Name : HP.HPX.exe
+UserNmae : GOVIND\guddu
+Status : running
+CPU usage : 0.00
+RAM usage : 0.51
+--------------------------------------------------
+PID : 23184
+Name : msedgewebview2.exe
+UserNmae : GOVIND\guddu
+Status : running
+CPU usage : 0.00
+RAM usage : 0.26
+--------------------------------------------------
+PID : 23340
+Name : svchost.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.25
+--------------------------------------------------
+PID : 23520
+Name : OverlayHelper.exe
+UserNmae : GOVIND\guddu
+Status : running
+CPU usage : 0.00
+RAM usage : 0.29
+--------------------------------------------------
+PID : 23584
+Name : AMDRSSrcExt.exe
+UserNmae : GOVIND\guddu
+Status : running
+CPU usage : 0.00
+RAM usage : 0.80
+--------------------------------------------------
+PID : 23604
+Name : servicehost.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.47
+--------------------------------------------------
+PID : 23632
+Name : SoftLandingTask.exe
+UserNmae : GOVIND\guddu
+Status : running
+CPU usage : 0.00
+RAM usage : 0.58
+--------------------------------------------------
+PID : 23644
+Name : SearchHost.exe
+UserNmae : GOVIND\guddu
+Status : running
+CPU usage : 0.00
+RAM usage : 1.19
+--------------------------------------------------
+PID : 23676
+Name : RuntimeBroker.exe
+UserNmae : GOVIND\guddu
+Status : running
+CPU usage : 0.00
+RAM usage : 0.19
+--------------------------------------------------
+PID : 23712
+Name : msedgewebview2.exe
+UserNmae : GOVIND\guddu
+Status : running
+CPU usage : 0.00
+RAM usage : 0.01
+--------------------------------------------------
+PID : 23964
+Name : RuntimeBroker.exe
+UserNmae : GOVIND\guddu
+Status : running
+CPU usage : 0.00
+RAM usage : 0.66
+--------------------------------------------------
+PID : 24436
+Name : WidgetService.exe
+UserNmae : GOVIND\guddu
+Status : running
+CPU usage : 0.00
+RAM usage : 0.36
+--------------------------------------------------
+PID : 24632
+Name : svchost.exe
+UserNmae : None
+Status : running
+CPU usage : 0.00
+RAM usage : 0.13
+--------------------------------------------------
+PID : 25016
+Name : Lively.exe
+UserNmae : GOVIND\guddu
+Status : running
+CPU usage : 0.00
+RAM usage : 1.20
+--------------------------------------------------
+PID : 25108
+Name : OmenInstallMonitor.exe
+UserNmae : GOVIND\guddu
+Status : running
+CPU usage : 0.00
+RAM usage : 0.10
+--------------------------------------------------
+PID : 25296
+Name : python.exe
+UserNmae : GOVIND\guddu
+Status : running
+CPU usage : 0.00
+RAM usage : 0.20
+--------------------------------------------------
+PID : 25320
+Name : Code.exe
+UserNmae : GOVIND\guddu
+Status : running
+CPU usage : 0.00
+RAM usage : 8.79
+--------------------------------------------------
+PID : 25332
+Name : OpenConsole.exe
+UserNmae : GOVIND\guddu
+Status : running
+CPU usage : 0.00
+RAM usage : 0.14
+--------------------------------------------------
+PID : 25416
+Name : msedgewebview2.exe
+UserNmae : GOVIND\guddu
+Status : running
+CPU usage : 0.00
+RAM usage : 0.64
+--------------------------------------------------
+--------------------------------------------------
+------------End of Log file------------
+--------------------------------------------------

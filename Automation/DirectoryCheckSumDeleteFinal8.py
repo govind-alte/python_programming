@@ -3,9 +3,9 @@ import os
 import hashlib
 
 def CalculateCheckSum(FileName):#4
-    fobj=open(FileName,"rb")
+    fobj=open(FileName,"rb")# read the file in binary mode 
 
-    hobj=hashlib.md5()
+    hobj=hashlib.md5() #create an object md5()
 
     Buffer=fobj.read(1024)
 
@@ -37,9 +37,9 @@ def FindDuplicate(DirectoryName):#3
     
 
 
-    for FolderName,SubFolder,FileName in os.walk(DirectoryName):
+    for FolderName,SubFolder,FileName in os.walk(DirectoryName): # walk are used to travelsing the folder
         for fname in FileName:
-            fname=os.path.join(FolderName,fname)
+            fname=os.path.join(FolderName,fname)# join is used for the join the path 
 
             checksum=CalculateCheckSum(fname)
 
@@ -71,7 +71,7 @@ def DeleteDuplicate(DirectoryName):#2
 
             Count=Count+1
             if Count>1:
-                os.remove(subvalue)
+                os.remove(subvalue)  # os.remove are used to remove the file (delete)
                 TotalDeleted=TotalDeleted+1
         Count=0
     print("totaldeleted files:",TotalDeleted)        

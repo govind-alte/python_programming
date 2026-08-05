@@ -17,13 +17,13 @@ def main():
     if(len(sys.argv)==2):
         if(sys.argv[1]=="--h" or sys.argv[1]=="--H"):
             print("use to perform")
-            print("1: imformation or running process")
-            print("2:imformation about RAM")
-            print("secondary storage HDD")
-            print("microprocessor")
-            print("auto schedule periodically")
-            print("Record into Log file")
-            print("log file  through mail periodically")
+            print("1:Imformation or running process")
+            print("2:Imformation about RAM")
+            print("3:secondary storage HDD")
+            print("4:Microprocessor")
+            print("5:Auto schedule periodically")
+            print("6:Record into Log file")
+            print("7:log file  through mail periodically")
 
         elif (sys.argv[1]=="--u" or sys.argv[1]=="--U"):
             print("use they automation scrip as:")

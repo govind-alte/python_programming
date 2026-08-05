@@ -73,7 +73,7 @@ def main():
 
     else:
         print("invalid number of argument.......")
-        print("unable to proceed as argument are not matching.....")
+        print("unable to proceed as argument are not matching......")
         print("please use --h or --u flag getting more details.....")    
 
 

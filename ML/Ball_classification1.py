@@ -7,5 +7,9 @@ def main():
     print("fetures:",Fetures)
     print("lables:",Lables)
 
+
+    
+
+
 if __name__=="__main__":
     main()    

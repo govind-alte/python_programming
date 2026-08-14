@@ -35,7 +35,7 @@ print("Data Analysis...")
 print(Border)
 
 
-print("shape of data set:",df.shape)#shape dias
+print("shape of data set:",df.shape)#shape 
 print("column names:",list(df.columns))#header of column
 
 print("missing values par column:")
@@ -49,9 +49,9 @@ print(df.describe)
 
 
 
-#####################################
+###################################################
 # Step 3 Deside independent and Dependent variables
-#####################################
+###################################################
 
 print(Border) 
 print("Step 3 Deside independent and Dependent variables")
@@ -98,9 +98,9 @@ plt.grid()
 plt.show()
 
 
-#####################################
+################################################
 # Step 5 Split the data set training and testing
-#####################################
+################################################
 print(Border)
 print(" Step 5 Split the data set training and testing")
 print(Border)
@@ -158,9 +158,9 @@ print("predicted:")
 print(Y_pred)
 
 
-####################################
+########################################
 # Step 9 Evaluate the model performance
-#####################################
+########################################
 print(Border)
 print("Step 9 Evaluate the model performance ")
 print(Border)

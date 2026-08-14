@@ -2,7 +2,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt 
 from sklearn.model_selection import train_test_split
-from sklearn.neighbors import KNeighborsClassifier    #algoriyham
+from sklearn.neighbors import KNeighborsClassifier    #algoritham
 from sklearn.metrics import accuracy_score,confusion_matrix  #FT FN TP TN
 from sklearn.preprocessing import StandardScaler 
 
@@ -27,8 +27,8 @@ def marvellousclassifire(datapath):
     print("step 2 : clean the dataset  ")
     print(border)
 
-    df.dropna(inplace=True)
-    print("shape of dataser :",df.shape)
+    df.dropna(inplace=True)#emty box remover 
+    print("shape of dataset:",df.shape)
     print("total records:",df.shape[0])
     print("total columns:",df.shape[1])
     print(border)
@@ -59,12 +59,12 @@ def marvellousclassifire(datapath):
 
     X_train,X_test, Y_train, Y_test=train_test_split(X,Y,test_size=0.5,random_state=42,stratify=Y)
     print(border)
-    print("detsild of trsind and testing data")
+    print("detaild of train and testing data")
 
     print("shape of X_train:",X_train.shape)
     print("shape of X_test:",X_test.shape)
     print("shape of Y_train:",Y_train.shape)
-    print("shape of Y_test:",X_test.shape)
+    print("shape of Y_test:",Y_test.shape)
 
 
 
@@ -103,13 +103,9 @@ def marvellousclassifire(datapath):
     Y_pred=model.predict(X_test_scaled)
     accuracy=accuracy_score(Y_test,Y_pred)
     print(accuracy*100)
-
-
-
-
+    print(border)
     
-
-
+    
 def main():
     marvellousclassifire("WinePredictor.csv")
 if __name__=="__main__":

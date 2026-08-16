@@ -18,21 +18,21 @@ def marvellousPredictor():
     mean_x=Sum_x/len(X) 
     mean_y=Sum_y/len(Y)   
 
-    print("mean_x is:",mean_x)
-    print("mean_y is:",mean_y)
+    print("mean_x is:",mean_x)#0.3
+    print("mean_y is:",mean_y)#3.6
 
 
-    n=len(X)#5
+    n=len(X)#5 store in n 5
     numerator=0
     denomerator=0
 
 
     #calculate slope M value
     for i in range(n):
-        numerator=numerator+((X[i]-mean_x)*(Y[i]-mean_y))
-        denomerator=denomerator+((X[i]-mean_x)**2)
-
-    m=numerator/denomerator
+        numerator=numerator+((X[i]-mean_x)*(Y[i]-mean_y))  # m = (X-Xbar)*(Y-Ybar)=4
+        denomerator=denomerator+((X[i]-mean_x)**2)         #(X-Xbar)**2=  10
+          
+    m=numerator/denomerator                                # 4 / 10 = 0.4
     print("slope of line M is ",m)    
 
 

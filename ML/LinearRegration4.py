@@ -41,7 +41,7 @@ def marvellousPredictor():
     # c=y-mx  
     #c= ymean - m * xmean
 
-    C=mean_y-m*mean_x
+    C=mean_y-m*mean_x  # 3.6-0.4*0.3=2.4
     print("Y intercept that is C ",C)
 
 

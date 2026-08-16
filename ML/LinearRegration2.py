@@ -10,7 +10,7 @@ def marvellousPredictor():
     print("values  of dependent variable",Y)
 
 
-    mean_x=np.mean(X)
+    mean_x=np.mean(X)#this line direct use numpy calculation 
     mean_y=np.mean(Y) 
 
     print("mean_x is:",mean_x)

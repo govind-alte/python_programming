@@ -8,8 +8,8 @@ def MarvellousEucDistance(P1,P2):
 def MarvellousKNNClassifire(K=3):
     border="-"*30
     data=[
-        {'point':'A','X':1,'Y':2,'label':'Red'},
-        {'point':'B','X':2,'Y':3,'label':'Red'},
+        {'point':'A','X':1,'Y':2,'label':'Red' },
+        {'point':'B','X':2,'Y':3,'label':'Red' },
         {'point':'C','X':3,'Y':1,'label':'Blue'},
         {'point':'D','X':5,'Y':6,'label':'Blue'},
         {'point':'E','X':6,'Y':6,'label':'Blue'},

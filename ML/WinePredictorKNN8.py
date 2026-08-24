@@ -108,8 +108,9 @@ def marvellousclassifire(datapath):
     plt.ylabel("accracy")
     plt.grid(True)
     plt.xticks(list(K_values()))
-    plt.show()       
+    plt.show()   
 
+                                                                                                               
     
 
 

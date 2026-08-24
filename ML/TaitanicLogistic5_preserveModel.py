@@ -22,12 +22,7 @@ def Loaddata(filename):
     print(df.head())
     return df
 
-#   Function name : Loaddata
-#   description : load the data from csv
-#   input : none
-#   output:  none
-#   Author : Alte govind jagannath
-#   date : 16/08/2026
+
 
 #-------step 2 :-----------------------------------------------------------------------------------
 #   Function name  : preProcess data

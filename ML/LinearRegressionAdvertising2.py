@@ -20,7 +20,7 @@ def marvellousRegression(datapath):
 
     # step 2 remove unwanted columns--------------------------------------------
     print(border)
-    print("step 2 remove unwanted columns ")
+    print("step 2 remove unwanted columns ") 
     print(border)
 
     if "Unnamed: 0" in df.columns:

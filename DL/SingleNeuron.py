@@ -1,5 +1,6 @@
 import numpy as np
 
+
 #step1 define input fetures that is X  
 
                 #[x1,x2,x3]

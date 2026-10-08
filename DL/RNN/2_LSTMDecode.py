@@ -2,7 +2,7 @@
 from tensorflow.keras.datasets import imdb
 from tensorflow.keras.models import Sequential
 from tensorflow.keras.layers import Embedding ,LSTM, Dense
-from tensorflow.keras.preprocessing.sequence import pad_sequence
+from tensorflow.keras.preprocessing.sequence import pad_sequences
 
 
 #step 2 configuraton of values 
@@ -61,7 +61,7 @@ for word,index in word_index.items():
 
 #step 6 function to decode the revies (number to  word)
 # 
-def DecodeReview(encoded_review)
+def DecodeReview(encoded_review):
     words=[] 
     for number in encoded_review:
         if number >=3:   #ignore first 3

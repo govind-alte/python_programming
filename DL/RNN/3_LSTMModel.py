@@ -93,12 +93,12 @@ for i in range (3,7):
 
 #step 8 padding 
 # 
-X_train_padded=pad_sequence(
+X_train_padded=pad_sequences(
     X_train,
     maxlen = MAX_LENTH
 )  
 
-X_test_padded=pad_sequence(
+X_test_padded=pad_sequences(
     X_test,
     maxlen=MAX_LENTH
 )

@@ -122,20 +122,6 @@ def marvellousRegression(datapath):
     print("intersept :",model.intercept_)
 
 
-    
-
-
-
-
-        
-
-
-
-    
-
-
-
-
 def main():
     marvellousRegression("Advertising.csv")
 if  __name__=="__main__":

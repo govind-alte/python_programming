@@ -8,7 +8,7 @@ from sklearn.metrics import accuracy_score,confusion_matrix
 
 
 #
-#   Function name : Loaddata
+#   Function name : Load data
 #   description : load the data from csv
 #   input : name of csv file
 #   output:  data freame
@@ -22,7 +22,7 @@ def Loaddata(filename):
     print(df.head())
     return df
 
-
+            
 
 #-------step 2 :-----------------------------------------------------------------------------------
 #   Function name  : preProcess data

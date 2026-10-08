@@ -94,7 +94,7 @@ plt.xlabel("petal length (cm)")
 plt.ylabel("petal width (cm)")  
 
 plt.legend()
-plt.grid()
+plt.grid(True)
 plt.show()
 
 

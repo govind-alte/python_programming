@@ -4,7 +4,7 @@ from tensorflow.keras.models import Sequential
 from tensorflow.keras.layers import Embedding ,LSTM, Dense
 from tensorflow.keras.preprocessing.sequence import pad_sequences
 
-
+########################################################
 #step 2 configuraton of values 
 
 

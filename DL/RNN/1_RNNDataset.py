@@ -13,3 +13,5 @@ for sentance , label in zip(sentences,labels):
     print("Label : ",label)
     print("Meaning : ",sentiment)
     print("------------------------------")
+
+    #venv\Scripts\activate.bat

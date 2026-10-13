@@ -37,10 +37,6 @@ print("number od testinf revievs",len(X_test))
 
 #step 4 load the word dectonary
 
-
-
-
-
 word_index=imdb.get_word_index()
 
 #Dictonary contain mapping of word and is corresponding number 
